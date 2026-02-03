@@ -1,0 +1,5 @@
+{
+  "name": "CineSwap AI",
+  "description": "Transform your movie dreams into reality. Upload 2-5 photos and a movie poster to instantly swap the protagonists with you and your friends using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
